@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd business-review-analyzer && npm ci && npm run build",
+  "outputDirectory": "business-review-analyzer/dist",
+  "installCommand": "echo skip-root-install",
+  "framework": null
+}

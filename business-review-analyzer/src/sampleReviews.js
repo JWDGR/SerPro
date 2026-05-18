@@ -1,0 +1,28 @@
+export const sampleBusinesses = {
+  'Joe\'s Coffee Shop': [
+    { rating: 5, text: 'Amazing latte and very friendly baristas! The atmosphere is cozy and warm.' },
+    { rating: 4, text: 'Great coffee but the wifi keeps dropping. Hard to get work done here.' },
+    { rating: 2, text: 'Waited 20 minutes for a simple drip coffee. Staff seemed overwhelmed during the morning rush.' },
+    { rating: 3, text: 'Coffee is good but prices have gone up a lot. A small latte is now $6.' },
+    { rating: 5, text: 'Best espresso in the neighborhood. The pastries are fresh every morning.' },
+    { rating: 1, text: 'Bathroom was dirty and the tables had not been wiped down. Will not return.' },
+    { rating: 4, text: 'Love the coffee, but seating is very limited at peak hours.' },
+    { rating: 2, text: 'Service was slow and my order was wrong. Had to ask twice to fix it.' },
+    { rating: 5, text: 'Friendly staff, great coffee, perfect spot to read a book.' },
+    { rating: 3, text: 'Decent coffee but they ran out of oat milk before 10am. Not great for a coffee shop.' },
+    { rating: 4, text: 'Nice place but very noisy in the afternoons. Hard to have a conversation.' },
+    { rating: 2, text: 'Parking is a nightmare. Drove around for 15 minutes before giving up.' },
+  ],
+  'Bella Italia Restaurant': [
+    { rating: 5, text: 'The pasta carbonara was incredible! Authentic Italian flavors and generous portions.' },
+    { rating: 2, text: 'Food was good but the wait time was over an hour even with a reservation.' },
+    { rating: 4, text: 'Lovely atmosphere and great wine list. Service could be a bit faster.' },
+    { rating: 1, text: 'Found a hair in my pasta. The manager did not even apologize properly.' },
+    { rating: 5, text: 'Best tiramisu I have ever had! The owner is so welcoming.' },
+    { rating: 3, text: 'Pricey for the portion sizes. Tasty but not worth the cost.' },
+    { rating: 2, text: 'Server was rude when we asked about gluten-free options. Made us feel unwelcome.' },
+    { rating: 4, text: 'Great food but it was freezing inside - the AC was way too cold.' },
+    { rating: 5, text: 'Perfect date night spot. Romantic lighting and delicious food.' },
+    { rating: 2, text: 'Music was way too loud, could barely hear my date talking.' },
+  ],
+};
